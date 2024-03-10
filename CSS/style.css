@@ -1,0 +1,52 @@
+/* Common Styling */
+.inline-block {
+    display: inline-block;
+    vertical-align: top;
+}
+
+
+
+
+/* Navbar Styling */
+.logo {
+    width: 23%;
+    padding: 1%;
+}
+
+nav {
+    width: 73%;
+    padding: 1%;
+}
+
+ul {
+    width: 50%;
+    margin-left: auto;
+}
+
+/* Hero Image Styling */
+.heroImg {
+    height: 600px;
+    padding: 25px;
+}
+
+.content {
+    width: 500px;
+    margin: 0 auto;
+}
+
+/* Footer Styling */
+footer {
+    background-color: #373738;
+    padding: 20px;
+}
+
+footer ul {
+    display: inline-block;
+    vertical-align: top;
+}
+
+footer li {
+    padding: 0 10px;
+    color: #fff; /* Adjust the text color as needed */
+}
+
