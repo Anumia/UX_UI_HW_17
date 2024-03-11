@@ -12,13 +12,16 @@
 }
 
 nav {
-    width: 73%;
+    width: 100%;
     padding: 1%;
 }
 
 ul {
-    width: 50%;
-    margin-left: auto;
+    width: 100%;
+    /* margin-left: auto; */
+}
+li{
+ margin-left: auto;   
 }
 
 /* Hero Image Styling */
